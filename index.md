@@ -36,8 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#testing stuff
+# Matthew Hall's first CS193 homework!!
 
-##_heading 2 wow so cool_
+- i like icebreakers
+- i like the more relaxed lectures
 
-#**heading 1 so very fun**
+  ### thank you for reading
